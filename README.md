@@ -107,3 +107,10 @@ The show maintained consistently high IMDb ratings throughout its run, with an a
 
 - Data sourced from IMDb and Wikipedia
 - Inspired by the work of Joss Whedon and the Buffy the Vampire Slayer creative team
+
+
+**Data Sources**
+
+- Ratings: https://www.imdb.com/title/tt0118276/ratings/
+- Episodes: https://en.wikipedia.org/wiki/List_of_Buffy_the_Vampire_Slayer_episodes#Ratings
+- IMDB Vote Count: https://www.imdb.com/title/tt0118276/episodes/?season=1
