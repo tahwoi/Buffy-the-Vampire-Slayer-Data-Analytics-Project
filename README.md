@@ -45,7 +45,25 @@ The dataset includes information on:
 3. Exploratory Data Analysis: Utilized SQL for initial data exploration and basic statistical analysis.
 4. Visualization: Created charts and graphs using Excel.
 
-## Key Queries
+## **Exploratory Data Analysis**
+
+### Identify the average IMDb rating for all episodes
+
+The analysis starts by calculating and displaying the average IMDb rating across all episodes in the dataset. This simple yet informative analysis provides a quick overview of the general quality of episodes as perceived by IMDb users. The result offers a baseline metric that can be used for comparison with individual episode ratings or ratings of specific seasons or shows.
+
+### **Top 10 Most Popular Episodes**
+
+This SQL query identifies and lists the ten episodes with the highest IMDb ratings in the dataset. It provides a quick overview of the most well-received episodes according to IMDb users. This helps to identify peak moments of quality or popularity across the episodes in the show.
+
+### **Top 10 Least Popular Episodes**
+
+This SQL query identifies and displays the ten episodes with the lowest IMDb ratings in the dataset. It offers a glimpse into the least popular or critically acclaimed episodes according to IMDb users. This provides insight into some of the show’s potential weak points.
+
+### Analyze the distribution of ratings
+
+This SQL query analyzes the distribution of IMDb ratings for episodes in the "Buffy the Vampire Slayer" dataset. It groups episodes by their rounded IMDb rating (to the nearest integer) and counts how many episodes fall into each rating bracket. The results offer a clear picture of the overall quality perception of the show's episodes, highlighting which rating ranges are most common.
+
+## Additional Key Queries
 
 - Episode analysis by season and overall series trends
 - Director impact on episode ratings
