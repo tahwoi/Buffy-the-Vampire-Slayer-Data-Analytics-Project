@@ -29,14 +29,16 @@ The data for this project was collected from the following sources:
     - Season and episode numbers
     - U.S. viewer numbers for each episode
 
-## Dataset
+## **Database Structure**
 
-The dataset includes information on:
+The project employs a relational database in PostgreSQL to organize the data effectively. The database comprises four interconnected tables:
 
-- Episodes (title, air date, season, episode number, director)
-- IMDb ratings (ratings and votes, viewership)
-- Writers
-- Writers-Episodes relationship
+- **episodes:** Containing core details about each episode, such as the air date, title, and director.
+- **writers:** Listing all writers associated with the show.
+- **writers_episodes:** Acting as a bridge to link episodes with their respective writers.
+- **ratings:** Holding rating information from IMDb (ratings and vote counts) and Wikipedia (U.S. viewer numbers).
+
+This structured database allows for complex queries and a nuanced understanding of the data.
 
 ## Methodology
 
