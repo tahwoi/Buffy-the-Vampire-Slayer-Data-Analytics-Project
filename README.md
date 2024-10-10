@@ -38,8 +38,6 @@ The project employs a relational database in PostgreSQL to organize the data eff
 - **writers_episodes:** Acting as a bridge to link episodes with their respective writers.
 - **ratings:** Holding rating information from IMDb (ratings and vote counts) and Wikipedia (U.S. viewer numbers).
 
-This structured database allows for complex queries and a nuanced understanding of the data.
-
 ## Methodology
 
 1. Data Collection: Gathered U.S. viewer ratings from Wikipedia and IMDB scores for all episodes.
