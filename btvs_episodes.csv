@@ -1,4 +1,4 @@
-episodeID,no_overall,Title, Season , Episode Number , AirDate       , Director                
+episodeID,no_overall,title, season , episode_number , air_date       , director                
 1,1, Welcome to the Hellmouth         ,1,1,1997-03-10,Charles Martin Smith
 2,2, The Harvest                      ,1,2,1997-03-10,John T. Kretchmer
 3,3, The Witch                        ,1,3,1997-03-17,Stephen Cragg
