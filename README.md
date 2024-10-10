@@ -4,7 +4,7 @@ Personal project, completed by Tutuwa Ahwoi in October 2024.
 
 ## Project Overview
 
-This project uses SQL to analyze data from the cult classic television show "Buffy the Vampire Slayer". It aims to uncover interesting patterns and insights about the show, its episodes, writers, and ratings through data analysis.
+This project uses SQL to analyze data from the cult classic television show "Buffy the Vampire Slayer". It aims to uncover interesting patterns and insights about the show, its episodes, writers, and ratings through data analysis. It leverages 20+ complex SQL queries, including subqueries and window functions, to analyze trends in ratings, viewership, and engagement.
 
 ## Technologies Used
 
